@@ -1,7 +1,9 @@
 # Collection of OA journals with a low fee
 
 
-#### A collection of journals that publish open access with an article processing charge <€1400 (~ $1530) - gathered this information from responses to [https://twitter.com/joachimgoedhart/status/1167874858094514176?s=20](this tweet)
+#### A collection of journals that publish open access with an article processing charge <€1400 (~ $1530) 
+
+This info was gathered from responses to [https://twitter.com/joachimgoedhart/status/1167874858094514176?s=20](this tweet)
 
 
 |Journal | APC|link|
