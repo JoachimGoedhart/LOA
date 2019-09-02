@@ -13,6 +13,7 @@ This info was gathered from responses to [this tweet](https://twitter.com/joachi
 |Bioscience Reports| €1300|http://www.portlandpresspublishing.com/content/open-access-policy|
 |F1000 Research|$150-$1000|https://f1000research.com/for-authors/article-processing-charges|
 |Journal of Biomedical Science|€ 0|https://jbiomedsci.biomedcentral.com/about|
+|Journal of Experimental Botany|€0 (requires subscription) |https://academic.oup.com/jxb/pages/General_Instructions|
 |PeerJ|$1095|https://peerj.com/benefits/reduced-cost-publishing/|
 |Royal Society Open Science|€1080|https://royalsociety.org/journals/authors/open-access/|
 
