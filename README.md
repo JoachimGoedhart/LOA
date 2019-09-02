@@ -3,7 +3,7 @@
 
 #### A collection of journals that publish open access with an article processing charge <€1400 (~ $1530) 
 
-This info was gathered from responses to [https://twitter.com/joachimgoedhart/status/1167874858094514176?s=20](this tweet)
+This info was gathered from responses to [this tweet](https://twitter.com/joachimgoedhart/status/1167874858094514176)
 
 
 |Journal | APC|link|
