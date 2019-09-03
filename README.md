@@ -16,4 +16,5 @@ This info was gathered from responses to [this tweet](https://twitter.com/joachi
 |Journal of Experimental Botany|€0 (requires subscription) |https://academic.oup.com/jxb/pages/General_Instructions|
 |PeerJ|$1095|https://peerj.com/benefits/reduced-cost-publishing/|
 |Royal Society Open Science|€1080|https://royalsociety.org/journals/authors/open-access/|
+|Contact|€750 (limited discount)|https://uk.sagepub.com/en-gb/eur/contact/journal203428
 
